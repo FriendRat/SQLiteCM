@@ -1,0 +1,2 @@
+# SQLiteCM
+SQLite Context Manager
